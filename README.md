@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&random=false&width=750&lines=🚀+I+ship+production+SaaS+%E2%80%94+not+side+projects;🧩+10%2B+Chrome+Extensions+with+real+daily+users;🤖+AI+%2B+Stripe+%2B+Supabase+%E2%80%94+full+stack,+end+to+end;⚡+React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;🔥+From+Pakistan+%F0%9F%87%B5%F0%9F%87%B0+%E2%80%94+building+for+the+world)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&random=false&width=750&lines=🚀+I+ship+production+SaaS+%E2%80%94+not+side+projects;🧩+50%2B+Chrome+Extensions+with+real+daily+users;🤖+AI+%2B+Stripe+%2B+Supabase+%E2%80%94+full+stack,+end+to+end;⚡+React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;🔥+From+Pakistan+%F0%9F%87%B5%F0%9F%87%B0+%E2%80%94+building+for+the+world)](https://git.io/typing-svg)
 
 <br/>
 
